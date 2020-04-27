@@ -10,3 +10,5 @@ The goal of this work is to show that news publications have affect on the stock
 2. Preprocessing
 3. Building ML baseline
 4. Creation of LSTM model
+
+Results:
